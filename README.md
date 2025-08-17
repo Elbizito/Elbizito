@@ -9,6 +9,7 @@ Meu nome é **Gabriel Lins**, tenho 17 anos e sou natural do Ceará. Sou formado
 
 Sou apaixonado por tecnologia, desenvolvimento web e UX/UI Design. Estou sempre buscando aprender novas ferramentas e frameworks para evoluir como desenvolvedor frontend.
 
+❗ Acesse minha página: https://elbizito.github.io/portfolio
 
 ---
 
