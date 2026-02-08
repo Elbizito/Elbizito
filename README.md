@@ -37,5 +37,4 @@ Sou apaixonado por tecnologia, desenvolvimento web e UX/UI Design. Estou sempre 
 
 ---
 
-> Feito com 💜 por Gabriel Lins — 2025
 
