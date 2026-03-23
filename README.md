@@ -5,9 +5,9 @@
 
 ---
 
-Meu nome é **Gabriel Lins**, tenho 17 anos e sou natural do Ceará. Sou formado como técnico em Análise e Desenvolvimento de Sistemas pelo **SENAI**.
+Meu nome é **Gabriel Lins**, tenho 18 anos e sou natural do Ceará. Sou formado como técnico em Análise e Desenvolvimento de Sistemas pelo **SENAI** e estou atualmente cursando o Ensino Superior no Centro Universitário Faria Brito. Mas sempre estou estudando linguagens de programação e boas práticas por fora. 
 
-Sou apaixonado por tecnologia, desenvolvimento web e UX/UI Design. Estou sempre buscando aprender novas ferramentas e frameworks para evoluir como desenvolvedor frontend.
+Sou apaixonado por tecnologia, desenvolvimento web, UX/UI Design, Dados. Estou sempre buscando aprender novas ferramentas para evoluir como profissional.
 
 ❗ Acesse minha página: https://elbizito.github.io/portfolio
 
@@ -32,7 +32,7 @@ Sou apaixonado por tecnologia, desenvolvimento web e UX/UI Design. Estou sempre 
 
 - 💻 GitHub: [@Elbizito](https://github.com/Elbizito)
 - 📧 Email: [gabriellinssoares@gmail.com](mailto:gabriellinssoares@gmail.com)
-- 🔗 LinkedIn: [Gabriel Lins](https://linkedin.com/in/gabriel-lins-358239351)
+- 🔗 LinkedIn: [Gabriel Lins](https://www.linkedin.com/in/gabriel-lins-358239351/)
 
 ---
 
